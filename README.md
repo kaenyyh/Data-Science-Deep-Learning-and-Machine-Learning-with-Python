@@ -1,3 +1,1 @@
-# Data Science, Deep Learning and Machine Learning with Python 
-
-## Udemy Course
+# Data Science, Deep Learning and Machine Learning with Python  ## (Udemy Course)
